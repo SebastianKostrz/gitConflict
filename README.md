@@ -1,1 +1,3 @@
 # gitConflict
+
+Seba to debil
