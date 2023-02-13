@@ -1,3 +1,3 @@
 # gitConflict
 
-Seba to debil
+Seba to debil, żartowałem, seba nie bij
